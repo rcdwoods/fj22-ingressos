@@ -150,4 +150,11 @@
         </plugins>
     </build>
 
+    <developers>
+        <developer>
+	    <name>Richard Pereira do Nascimento</name>
+	    <email>rcdwoods@gmail.com</email>
+	</developer>
+    </developers>
+
 </project>
